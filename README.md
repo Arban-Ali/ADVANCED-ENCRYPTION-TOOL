@@ -1,4 +1,14 @@
 # ADVANCED-ENCRYPTION-TOOL
+
+*Company Name* : Codtech IT Solutions Private Limited
+*Name* : Sayyad Arban Ali
+*Intern Id* : CTIS5711
+*Domain* : Cyber Security & Ethical Hacking
+*Duration* : 16 Weeks
+*Mentor* : Neela Santosh
+
+
+
 # 🔒 AES-256 File Locker
 
 A lightweight, secure, and user-friendly desktop application built in Python to encrypt and decrypt sensitive files using the robust **AES-256 (Advanced Encryption Standard)** algorithm.
